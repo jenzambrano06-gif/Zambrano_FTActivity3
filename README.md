@@ -5,5 +5,5 @@ A fast, easy-to-use one-page storefront website created for **R and J Cellphone 
 Designed to help local customers easily check repair prices, view available accessories, find shop hours, and submit repair requests online.
 
 **Author:** Jenice M. Zambrano | BSIT 2D  
-**Activity:** FT Lab Activity 2  
+**Activity:** FT Lab Activity 3 
 **Tools:** HTML, CSS
